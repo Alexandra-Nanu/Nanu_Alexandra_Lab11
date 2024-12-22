@@ -64,12 +64,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Compile Update="ListEntryPage.xaml.cs">
-	    <DependentUpon>ListEntryPage.xaml</DependentUpon>
-	  </Compile>
-	</ItemGroup>
-
-	<ItemGroup>
 	  <MauiXaml Update="ListEntryPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
